@@ -1,3 +1,14 @@
+.navigationBar {
+	color: black;
+	background: #afafaf;
+	font-weight: bold;
+}
+
+.logo {
+	width: 60px;
+	height: 60px;
+}
+
 .container {
 	padding: 40px 60px 40px 60px !important;
 }
