@@ -77,6 +77,11 @@ h3 span{
 	padding-right: 20px;
 }
 
+.artAbout {
+	width: 100%;
+	height: auto;
+}
+
 .aboutMe {
 	color: #6f6f6f;
 	line-height: 30px;
@@ -147,4 +152,15 @@ h3 span{
 
 .interest {
 	text-align: center;
+}
+
+.sectionTitle {
+	color: #000000;
+	font-weight: bold;
+	border-bottom: 4px solid #000000;
+	border-top: 4px solid #000000;
+	margin-bottom: 25px;
+	padding-top: 5px;
+	text-align: center;
+	margin: 50px auto;
 }
